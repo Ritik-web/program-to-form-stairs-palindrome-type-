@@ -1,0 +1,1 @@
+# program-to-form-stairs-palindrome-type-
